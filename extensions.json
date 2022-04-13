@@ -553,6 +553,9 @@
   "jpoissonnier.vscode-styled-components": {
     "repository": "https://github.com/styled-components/vscode-styled-components"
   },
+  "jsynowiec.vscode-insertdatestring": {
+    "repository": "https://github.com/jsynowiec/vscode-insertdatestring"
+  },
   "junstyle.php-cs-fixer": {
     "repository": "https://github.com/junstyle/vscode-php-cs-fixer"
   },
